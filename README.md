@@ -219,8 +219,6 @@ Gamemakin LLC is not a lawyer, but please don't introduce illegal actions and be
 <a name="00"></a>
 ## 00. Globally Enforced Opinions
 
-@TODO: Make this section 1 and update this document accordingly. Or maybe we don't?
-
 <a name="00.1"></a>
 ### 00.1 Forbidden Characters
 
